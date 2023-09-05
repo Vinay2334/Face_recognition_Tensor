@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\OpenCVface\\faceRecognitionTensorflow\\model_weights.tflearn"
+all_model_checkpoint_paths: "D:\\OpenCVface\\faceRecognitionTensorflow\\model_weights.tflearn"
